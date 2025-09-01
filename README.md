@@ -17,6 +17,6 @@ JWT_SECRET=...
 
 3.Run the application
 
-Backend: npm start or php artisan serve / or similar
+Backend: npm start or nodemom server.js
 
 Frontend: npm run dev or npm start
